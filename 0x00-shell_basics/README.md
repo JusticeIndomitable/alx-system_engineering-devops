@@ -1,3 +1,3 @@
-printt working directory
+print working directory
 listing
-cd home
+long listing
