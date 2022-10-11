@@ -1,0 +1,2 @@
+#!/bin/bash
+cp tail -qn 1 iacta
