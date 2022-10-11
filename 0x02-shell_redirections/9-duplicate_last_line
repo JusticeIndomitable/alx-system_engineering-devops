@@ -1,2 +1,2 @@
 #!/bin/bash
-cp tail -qn 1 iacta
+echo -en "" | tail --line=1 iacta >> aicta
