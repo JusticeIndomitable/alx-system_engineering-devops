@@ -5,3 +5,4 @@ count directories
 set
  variables, and functions.
 local variable
+global variable
