@@ -4,3 +4,4 @@ creating the path \action
 count directories
 set
  variables, and functions.
+local variable
