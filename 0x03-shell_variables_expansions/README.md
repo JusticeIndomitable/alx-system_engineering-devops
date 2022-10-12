@@ -3,3 +3,4 @@ display hello with the current user
 creating the path \action
 count directories
 set
+ variables, and functions.
