@@ -8,3 +8,4 @@ local variable
 global variable
 arithmetics
 division
+raise to power of love
