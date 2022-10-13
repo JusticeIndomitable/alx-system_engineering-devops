@@ -7,3 +7,4 @@ set
 local variable
 global variable
 arithmetics
+division
