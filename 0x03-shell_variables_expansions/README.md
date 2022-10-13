@@ -6,3 +6,4 @@ set
  variables, and functions.
 local variable
 global variable
+arithmetics
